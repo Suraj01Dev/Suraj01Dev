@@ -1,6 +1,10 @@
 <h1><img src="https://i.imgur.com/04Yxzpb.gif" width="30"/> Hey! All </h1>
 
+#### I am Suraj a passionate developer 👨‍💻 with a love for Python programming, I am dedicated to building data-driven applications. With a strong background in Python programming, I like to leverage it for collecting and analyzing data 📊.
 
+- **Courses** : Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
+- **Highlights** : 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Tableau)
+  
 
 
 <h3>Things I work with</h3>
