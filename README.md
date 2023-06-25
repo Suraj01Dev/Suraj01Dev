@@ -57,7 +57,7 @@
     </tr>
     <tr>
       <td><a><b>Machine Learning</b></a></td>
-      <td><a href=""><b>Predicting the Loan Defaulters of NBFI Vehicle Loan Repayment</b></a>
+      <td><a href="https://github.com/Suraj01Dev/Data-Science-Projects/tree/main/Machine%20Learning%20Projects/Predicting%20the%20Loan%20Defaulters%20of%20NBFI%20Vehicle%20Loan%20Repayment"><b>Predicting the Loan Defaulters of NBFI Vehicle Loan Repayment</b></a>
       <ul>
         <li>Cleaned and analyzed loan defaulter's data containing 120000 rows & 40 columns using Pandas.</li>
         <li>Performed EDA with visualizations (histogram, bar charts, pie charts) using Seaborn and Plotly.</li>
