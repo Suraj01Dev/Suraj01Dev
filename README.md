@@ -22,7 +22,7 @@
   <img alt="MySql" src="https://img.shields.io/badge/-MySql-13aa52?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-43853d?style=flat-square&logo=Oracle&logoColor=white" />
 </p>
-<h3>My Data Science Projects</h3>
+<h3>My Data Science Portfolio Projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -69,7 +69,7 @@
     </tr>
   </tbody>
 </table>
-<h3>My latest posts</h3>
+<h3>My Blog Posts</h3>
 <ul>
   <li><a href="https://medium.com/@suraj2001dev/web-scraping-nifty-500-key-financial-ratios-using-python-6db7455e2fa8"><b><img src="https://i.imgur.com/xbBQokT.jpg" width="20" alt="new" /> Web Scraping Nifty 500 Key Financial Ratios using Python</i></li>
 
