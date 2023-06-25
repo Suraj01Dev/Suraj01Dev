@@ -33,19 +33,39 @@
   <tbody>
     <tr>
       <td><a><b>Web Scraping</b></a></td>
-      <td><a href="https://github.com/Suraj01Dev/Data-Science-Projects/tree/main/Web%20Scraping%20Projects/Scraping%20StackOverflow%20Jobs"><b>Web Scraping Best Hiring Companies for Developers from StackOverflow using Python</b><a></td>
+      <td><a href="https://github.com/Suraj01Dev/Data-Science-Projects/tree/main/Web%20Scraping%20Projects/Scraping%20StackOverflow%20Jobs"><b>Web Scraping Best Hiring Companies for Developers from StackOverflow using Python</b></a>
+        <ul>
+        <li>Scraped latest job updates from StackOverflow using Requests & Beautifulsoup4</li>
+        <li>Built functions like mainParser(), infoParser() and extraParser() to scrape job name, location link, tech stack, website link</li>
+        <li>Parsed and tabulated data consists of 124 rows x 11 cols into jobs.csv using Pandas</li></ul>
+      </td>
     </tr>
     <tr>
       <td><a><b>EDA</b></a></td>
-      <td><a href="https://github.com/Suraj01Dev/Data-Science-Projects/tree/main/EDA%20Projects/EDA%20on%20Chicago%20Bicycle%20Rent%20Usage"><b>Exploratory Data Analysis on Chicago Bicycle Rent Usage</b></a></td>
+      <td><a href="https://github.com/Suraj01Dev/Data-Science-Projects/tree/main/EDA%20Projects/EDA%20on%20Chicago%20Bicycle%20Rent%20Usage"><b>Exploratory Data Analysis on Chicago Bicycle Rent Usage</b></a>
+        <ul>
+        <li>Cleaned and analyzed cycle rent usage data containing 600000+ rows & 13 columns using Pandas.</li>
+        <li>Created visualizations (histogram, word cloud, folium maps) using folium, seaborn, and Plotly.</li>
+        <li>Streeter Dr & Grand Ave is the most used station by the riders and when it comes to bikes classic bikes are mostly used.</li></ul>
+      </td>
     </tr>
     <tr>
       <td><a><b>Machine Learning</b></a></td>
-      <td><a href=""><b>Predicting the Loan Defaulters of NBFI Vehicle Loan Repayment</b></a></td>
+      <td><a href=""><b>Predicting the Loan Defaulters of NBFI Vehicle Loan Repayment</b></a>
+      <ul>
+        <li>Cleaned and analyzed loan defaulter's data containing 120000 rows & 40 columns using Pandas.</li>
+        <li>Performed EDA with visualizations (histogram, bar charts, pie charts) using Seaborn and Plotly.</li>
+        <li>Built Machine Learning model using Random Forest with 95% accuracy and 71% recall score.</li></ul>
+      </td>
     </tr>
     <tr>
       <td><a><b>Web Scraping</b></a></td>
-      <td><a href="https://github.com/Suraj01Dev/Data-Science-Projects/tree/main/Web%20Scraping%20Projects/Scraping%20Nifty500%20Stocks"><b>Web Scraping Nifty 500 Key Financial Ratios using Python</b></a></td>
+      <td><a href="https://github.com/Suraj01Dev/Data-Science-Projects/tree/main/Web%20Scraping%20Projects/Scraping%20Nifty500%20Stocks"><b>Web Scraping Nifty 500 Key Financial Ratios using Python</b></a>
+        <ul>
+        <li>Scraped Nifty 500 Stock Ratios for Fundamental Analysis.</li>
+        <li>Created a Spider in Scrapy to Crawl Moneycontrol Webpage to get the Ratios.</li>
+        <li>Parsed and tabulated 500 rows x 176 cols into the nifty500.csv.</li></ul>
+      </td>
     </tr>
   </tbody>
 </table>
