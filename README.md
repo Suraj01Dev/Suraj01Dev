@@ -1,16 +1,60 @@
-### Hi there 👋
+<h1><img src="https://i.imgur.com/04Yxzpb.gif" width="30"/> Hey! All </h1>
 
-<!--
-**Suraj01Dev/Suraj01Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>Things I work with</h3>
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ea2845?style=flat-square&logo=python&logoColor=white" />
+  <img alt="bash" src="https://img.shields.io/badge/-Bash-DD0031?style=flat-square&logo=GNU&logoColor=white" />
+  <img alt="pandas" src="https://img.shields.io/badge/-Pandas-CB3837?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="numpy" src="https://img.shields.io/badge/-Numpy-E34F26?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-FB542B?style=flat-square&logo=plotly&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/-Excel-EC4A3F?style=flat-square&logo=microsoft&logoColor=white" />
+  <img alt="tableau" src="https://img.shields.io/badge/-Tableau-F9A03C?style=flat-square&logo=Tableau&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/-ScikitLearn-F7B93E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="MySql" src="https://img.shields.io/badge/-MySql-13aa52?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-43853d?style=flat-square&logo=Oracle&logoColor=white" />
+</p>
+<h3>My Data Science Projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Category</b></td>
+      <td><b>⭐ Title</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a><b>Web Scraping</b></a></td>
+      <td><a href="https://github.com/Suraj01Dev/Data-Science-Projects/tree/main/Web%20Scraping%20Projects/Scraping%20StackOverflow%20Jobs"><b>Web Scraping Best Hiring Companies for Developers from StackOverflow using Python</b><a></td>
+    </tr>
+    <tr>
+      <td><a><b>EDA</b></a></td>
+      <td><a href="https://github.com/Suraj01Dev/Data-Science-Projects/tree/main/EDA%20Projects/EDA%20on%20Chicago%20Bicycle%20Rent%20Usage"><b>Exploratory Data Analysis on Chicago Bicycle Rent Usage</b></a></td>
+    </tr>
+    <tr>
+      <td><a><b>Machine Learning</b></a></td>
+      <td><a href=""><b>Predicting the Loan Defaulters of NBFI Vehicle Loan Repayment</b></a></td>
+    </tr>
+    <tr>
+      <td><a><b>Web Scraping</b></a></td>
+      <td><a href="https://github.com/Suraj01Dev/Data-Science-Projects/tree/main/Web%20Scraping%20Projects/Scraping%20Nifty500%20Stocks"><b>Web Scraping Nifty 500 Key Financial Ratios using Python</b></a></td>
+    </tr>
+  </tbody>
+</table>
+<h3>My latest posts</h3>
+<ul>
+  <li><a href="https://medium.com/@suraj2001dev/web-scraping-nifty-500-key-financial-ratios-using-python-6db7455e2fa8"><b><img src="https://i.imgur.com/xbBQokT.jpg" width="20" alt="new" /> Web Scraping Nifty 500 Key Financial Ratios using Python</i></li>
+
+</ul>
+
+
+        
+<h3>My Professional Profiles</h3>
+<p><a href="https://github.com/Suraj01Dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /><a href="https://www.linkedin.com/in/suraj-d-0330b6134/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@suraj2001dev" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><a href="https://jovian.com/suraj2001dev" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/jovian-%2312100E.svg?&style=for-the-badge&logo=jovian.com&logoColor=white" /></a>
+</p>
+
+-----------
