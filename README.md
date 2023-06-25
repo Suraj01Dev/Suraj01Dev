@@ -2,8 +2,12 @@
 
 #### I am Suraj a passionate developer 👨‍💻 with a love for Python programming, I am dedicated to building data-driven applications. With a strong background in Python programming, I like to leverage it for collecting and analyzing data 📊.
 
-- **Courses** : Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
-- **Highlights** : 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Tableau)
+- **Courses**: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
+- **Highlights**: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Tableau)
+- **Gmail**: _suraj2001dev@gmail.com_
+- [**Resume**](https://docs.google.com/document/d/1gCUif5VPmYgpijwB7gOwoaNIPuIOBNhmTxLtjwFqPoY/edit?usp=sharing)
+
+
   
 
 
@@ -21,6 +25,8 @@
   <img alt="scikit-learn" src="https://img.shields.io/badge/-ScikitLearn-F7B93E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img alt="MySql" src="https://img.shields.io/badge/-MySql-13aa52?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-43853d?style=flat-square&logo=Oracle&logoColor=white" />
+  <img alt="Scrapy" src="https://img.shields.io/badge/-Scrapy-43853d?style=flat-square&logo=scrapy&logoColor=white" />
+
 </p>
 <h3>My Data Science Portfolio Projects</h3>
 <table>
